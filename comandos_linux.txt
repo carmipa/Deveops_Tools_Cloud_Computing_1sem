@@ -1,0 +1,74 @@
+0 - CTRL+L = Limpar tela
+0 - CLEAR  = Limpar tela
+ 
+ 
+admin_fiap@vm-linux:~$
+ 
+1 - admin_fiap = usuário autenticado.
+2 - @ = Símbolo de divisão entre usuário e senha.
+3 - vm-linux = máquina Linux
+4 - ~ = home/admin_fiap
+5 - $ = Simbolo do Prompt autenticado com usuário sem super poderes
+ 
+ 
+6 -  # = Simbolo do Prompt autenticado com usuário com super poderes
+7 -  cd .. = sair do diretório atual
+8 -  cd nomediretorio = entrar no diretorio
+9 -  mkdir = criar diretório
+10 - ls = listar arquivos e diretórios
+11 - ls -l = listar arquivos e diretório no formato lista
+12 - ls -la ou ls -l -a = mostrar diretorios e arquivos ocultos
+13 - ls --help = --help mostrar ajuda do comando especificado.
+14 - sudo su = sudo(SuperUSERDO) su(SuperUSER) -> Mantêm conectado como usuário root(Super User)
+15 - sudo = SuperUserDO -> executar com privilégios administrativos.
+16 - history
+17 - !2(linha do history) = Executa o comando do history
+
+0 - CTRL+L = Limpar tela
+0 - clear  = Limpar tela
+0 - cat = Imprime conteúdo de arquivo - type do windows
+0 - exit = Sai do shell
+0 - hostname = Imprime o nome da máquina
+0 - curl(Client URL) = Transferi dados.
+0 - curl ifconfig.me = retorna o ip público da máquina
+0 - hostname -i = retorna o ip privado
+0 - pwd(Print Working Directory = Imprimir o diretório atual.
+0 - cd ~ = Entra no diretório home do usuario(/home/admin_fiap)
+0 - cd / = Entra na raiz do Linux("C:" do windows)
+ 
+ 
+0 - CTRL+L = Limpar tela
+0 - clear  = Limpar tela
+0 - cat = Imprime conteúdo de arquivo - type do windows
+0 - exit = Sai do shell
+0 - hostname = Imprime o nome da máquina
+0 - curl(Client URL) = Transferi dados.
+0 - curl ifconfig.me = retorna o ip público da máquina
+0 - hostname -i = retorna o ip privado
+0 - pwd(Print Working Directory = Imprimir o diretório atual.
+0 - cd ~ = Entra no diretório home do usuario(/home/admin_fiap)
+0 - cd / = Entra na raiz do Linux("C:" do windows)
+ 
+ 
+admin_fiap@vm-linux:~$
+ 
+1 - admin_fiap = usuário autenticado.
+2 - @ = Símbolo de divisão entre usuário e senha.
+3 - vm-linux = máquina Linux
+4 - ~ = home/admin_fiap
+5 - $ = Simbolo do Prompt autenticado com usuário sem super poderes
+ 
+ 
+6 -  # = Simbolo do Prompt autenticado com usuário com super poderes
+7 -  cd .. = sair do diretório atual
+8 -  cd nomediretorio = entrar no diretorio
+9 -  mkdir = criar diretório
+10 - ls = listar arquivos e diretórios
+11 - ls -l = listar arquivos e diretório no formato lista
+12 - ls -la ou ls -l -a = mostrar diretorios e arquivos ocultos
+13 - ls --help = --help mostrar ajuda do comando especificado.
+14 - sudo su = sudo(SuperUSERDO) su(SuperUSER) -> Mantêm conectado como usuário root(Super User)
+15 - sudo = SuperUserDO -> executar com privilégios administrativos.
+16 - history
+17 - !2(linha do history) = Executa o comando do history
+ 
